@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<styleSheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" mc:Ignorable="x14ac">
+
+  <fonts count="2" x14ac:knownFonts="1">
+    <font>
+      <sz val="9" />
+      <name val="Arial" />
+    </font>
+    <font>
+      <sz val="9" />
+      <name val="Arial" />
+      <color rgb="FFFFFF" />
+      <b />
+    </font>
+  </fonts>
+
+  <fills count="3">
+    <fill>
+      <patternFill patternType="none" />
+    </fill>
+    <fill>
+      <patternFill patternType="gray125" />
+    </fill>
+    <fill>
+      <patternFill patternType="solid">
+        <fgColor rgb="13962B" />
+      </patternFill>
+    </fill>
+  </fills>
+
+  <borders count="2">
+    <border>
+      <left />
+      <right />
+      <top />
+      <bottom />
+      <diagonal />
+    </border>
+    <border>
+      <left />
+      <right />
+      <top />
+
+      <bottom style="thin">
+        <color rgb="FFC7C7C7"/>
+      </bottom>
+      
+      <diagonal />
+    </border>
+  </borders>
+
+  <cellStyleXfs count="1">
+    <xf numFmtId="0" fontId="0" fillId="2" borderId="1" />
+    <xf numFmtId="0" fontId="1" fillId="2" borderId="0" />
+  </cellStyleXfs>
+
+  <cellXfs count="2">
+    <xf numFmtId="0" fontId="0" fillId="0" borderId="1" xfId="0">
+      <alignment wrapText="1" vertical="top" />
+    </xf>
+    <xf numFmtId="0" fontId="1" fillId="2" borderId="0" xfId="1" />
+  </cellXfs>
+
+  <cellStyles count="2">
+    <cellStyle name="Normal" xfId="0" builtinId="0" />
+    <cellStyle name="Normal" xfId="0" builtinId="0" />
+  </cellStyles>
+
+  <dxfs count="0" />
+
+  <extLst>
+    <ext xmlns:x14="http://schemas.microsoft.com/office/spreadsheetml/2009/9/main" uri="{EB79DEF2-80B8-43e5-95BD-54CBDDF9020C}">
+      <x14:slicerStyles defaultSlicerStyle="SlicerStyleLight1" />
+    </ext>
+  </extLst>
+</styleSheet>

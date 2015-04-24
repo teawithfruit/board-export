@@ -1,0 +1,35 @@
+{
+  "name": "board-export",
+  "version": "0.0.1",
+  "description": "A Trello exporter.",
+  "main": "app.js",
+  "dependencies": {
+    "excel-export": "^0.4.1",
+    "jira": "^0.9.2",
+    "node-trello": "^1.0.1",
+    "nomnom": "^1.8.1",
+    "q": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "trello",
+    "export",
+    "excel"
+  ],
+  "author": {
+    "name": "teawithfruit",
+    "email": "teawithfruit@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/teawithfruit/board-export.git"
+  },
+  "homepage": "https://github.com/teawithfruit/board-export",
+  "bugs": {
+    "url": "https://github.com/teawithfruit/board-export/issues"
+  },
+  "license": "ISC"
+}
